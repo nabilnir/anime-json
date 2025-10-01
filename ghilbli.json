@@ -34,6 +34,28 @@
       "previewUrl": "https://c4.wallpaperflare.com/wallpaper/803/347/759/anime-natural-light-landscape-forest-studio-ghibli-hd-wallpaper-preview.jpg",
       "pageUrl": "https://www.wallpaperflare.com/anime-natural-light-landscape-forest-studio-ghibli-karigurashi-no-arrietty-wallpaper-yhxbx",
       "tags": ["anime", "natural light", "landscape", "forest", "Studio Ghibli", "Karigurashi no Arrietty"],
+      "Cast" : {
+           {
+        "id" : 1, 
+        "photo": "https://m.media-amazon.com/images/M/MV5BMTUzNDUyODk2Nl5BMl5BanBnXkFtZTcwOTEzMjIxMw@@._V1_QL75_UX140_CR0,39,140,140_.jpg",
+        "name" : "Mirai Shida",
+        "castAs" : "Arriati(voice)"
+       
+      }  
+      {  
+         "id" : 2, 
+        "photo": "https://m.media-amazon.com/images/M/MV5BMTNlYTgwMmItM2EzOC00OTQwLTk3MzktZGQwYTFhODZiZmUwXkEyXkFqcGc@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "name" : "Ryûnosuke Kamiki",
+        "castAs" : "Shô(voice)"
+      }
+     {
+       "id" : 3, 
+        "photo": "https://m.media-amazon.com/images/M/MV5BMTU4Njc2OTYwMF5BMl5BanBnXkFtZTcwNDM1MzkwOA@@._V1_QL75_UX140_CR0,13,140,140_.jpg",
+        "name" : "Tatsuya Fujiwara",
+        "castAs" : "Supirâ(voice)"
+     }
+    
+      }
       "fandom": {
         "heading": "The Secret World of Arrietty Fandom",
         "photo": "https://wallpapercave.com/wp/wp10983088.jpg",
