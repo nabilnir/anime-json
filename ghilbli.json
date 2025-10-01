@@ -27,52 +27,51 @@
       }
     },
     { 
-      "id" : 2,
-      "title": "anime, natural light, landscape, forest, Studio Ghibli, Karigurashi no Arrietty",
-      "resolution": "3840x2160px",
-      "fileSize": "1.17MB",
-      "previewUrl": "https://c4.wallpaperflare.com/wallpaper/803/347/759/anime-natural-light-landscape-forest-studio-ghibli-hd-wallpaper-preview.jpg",
-      "pageUrl": "https://www.wallpaperflare.com/anime-natural-light-landscape-forest-studio-ghibli-karigurashi-no-arrietty-wallpaper-yhxbx",
-      "tags": ["anime", "natural light", "landscape", "forest", "Studio Ghibli", "Karigurashi no Arrietty"],
-      "Cast" : {
-           {
-           "id" : 1, 
-           "photo": "https://m.media-amazon.com/images/M/MV5BMTUzNDUyODk2Nl5BMl5BanBnXkFtZTcwOTEzMjIxMw@@._V1_QL75_UX140_CR0,39,140,140_.jpg",
-           "name" : "Mirai Shida",
-           "castAs" : "Arriati(voice)"
-          } , 
-          {  
-            "id" : 2, 
-            "photo": "https://m.media-amazon.com/images/M/MV5BMTNlYTgwMmItM2EzOC00OTQwLTk3MzktZGQwYTFhODZiZmUwXkEyXkFqcGc@._V1_QL75_UY140_CR35,0,140,140_.jpg",
-            "name" : "Ryûnosuke Kamiki",
-            "castAs" : "Shô(voice)"
-          },
-         {
-            "id" : 3, 
-            "photo": "https://m.media-amazon.com/images/M/MV5BMTU4Njc2OTYwMF5BMl5BanBnXkFtZTcwNDM1MzkwOA@@._V1_QL75_UX140_CR0,13,140,140_.jpg",
-            "name" : "Tatsuya Fujiwara",
-            "castAs" : "Supirâ(voice)"
-         }
-    
-      },
-      "fandom": {
-        "heading": "The Secret World of Arrietty Fandom",
-        "photo": "https://wallpapercave.com/wp/wp10983088.jpg",
-        "fandomLink": "https://ghibli.fandom.com/wiki/The_Secret_World_of_Arrietty",
-        "description": "The Secret World of Arrietty tells the story of tiny people called Borrowers who live secretly beneath the floorboards of a house. This 2010 film beautifully explores friendship, perspective, and living harmoniously with nature through the eyes of young Arrietty.",
-        "howToJoin": {
-          "steps": [
-            "Navigate to https://studioghibli.fandom.com/wiki/The_Secret_World_of_Arrietty",
-            "Register for a Fandom account to contribute and engage",
-            "Explore the detailed world-building of the Borrowers' miniature society",
-            "Share your thoughts on the film's environmental themes",
-            "Join discussions about the beautiful soundtrack by Cécile Corbel",
-            "Create or view fan art showing scale comparisons and detailed tiny worlds",
-            "Connect with fans interested in miniature crafts and dioramas"
-          ]
-        }
-      }
+  "id" : 2,
+  "title": "anime, natural light, landscape, forest, Studio Ghibli, Karigurashi no Arrietty",
+  "resolution": "3840x2160px",
+  "fileSize": "1.17MB",
+  "previewUrl": "https://c4.wallpaperflare.com/wallpaper/803/347/759/anime-natural-light-landscape-forest-studio-ghibli-hd-wallpaper-preview.jpg",
+  "pageUrl": "https://www.wallpaperflare.com/anime-natural-light-landscape-forest-studio-ghibli-karigurashi-no-arrietty-wallpaper-yhxbx",
+  "tags": ["anime", "natural light", "landscape", "forest", "Studio Ghibli", "Karigurashi no Arrietty"],
+  "Cast" : [
+    {
+      "id" : 1, 
+      "photo": "https://m.media-amazon.com/images/M/MV5BMTUzNDUyODk2Nl5BMl5BanBnXkFtZTcwOTEzMjIxMw@@._V1_QL75_UX140_CR0,39,140,140_.jpg",
+      "name" : "Mirai Shida",
+      "castAs" : "Arriati(voice)"
+    }, 
+    {  
+      "id" : 2, 
+      "photo": "https://m.media-amazon.com/images/M/MV5BMTNlYTgwMmItM2EzOC00OTQwLTk3MzktZGQwYTFhODZiZmUwXkEyXkFqcGc@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+      "name" : "Ryûnosuke Kamiki",
+      "castAs" : "Shô(voice)"
     },
+    {
+      "id" : 3, 
+      "photo": "https://m.media-amazon.com/images/M/MV5BMTU4Njc2OTYwMF5BMl5BanBnXkFtZTcwNDM1MzkwOA@@._V1_QL75_UX140_CR0,13,140,140_.jpg",
+      "name" : "Tatsuya Fujiwara",
+      "castAs" : "Supirâ(voice)"
+    }
+  ],
+  "fandom": {
+    "heading": "The Secret World of Arrietty Fandom",
+    "photo": "https://wallpapercave.com/wp/wp10983088.jpg",
+    "fandomLink": "https://ghibli.fandom.com/wiki/The_Secret_World_of_Arrietty",
+    "description": "The Secret World of Arrietty tells the story of tiny people called Borrowers who live secretly beneath the floorboards of a house. This 2010 film beautifully explores friendship, perspective, and living harmoniously with nature through the eyes of young Arrietty.",
+    "howToJoin": {
+      "steps": [
+        "Navigate to https://studioghibli.fandom.com/wiki/The_Secret_World_of_Arrietty",
+        "Register for a Fandom account to contribute and engage",
+        "Explore the detailed world-building of the Borrowers' miniature society",
+        "Share your thoughts on the film's environmental themes",
+        "Join discussions about the beautiful soundtrack by Cécile Corbel",
+        "Create or view fan art showing scale comparisons and detailed tiny worlds",
+        "Connect with fans interested in miniature crafts and dioramas"
+      ]
+    }
+  }
+},
     {
       "id" : 3,
       "title": "anime, Studio Ghibli, Spirted Away, Spirited Away, representation",
